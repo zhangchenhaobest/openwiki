@@ -1,3 +1,29 @@
+# openwiki
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+为代码库编写并维护 Agent 文档的 CLI。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
